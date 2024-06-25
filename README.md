@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I am Kns 👋
-I am a developer and an AI enthusiast.
