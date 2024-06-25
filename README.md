@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Illahi 👋
 
 <!--
 **mehboobillahi56/Mehboobillahi56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey, I am Kns 👋
+I am a developer and an AI enthusiast.
